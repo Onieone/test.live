@@ -4,7 +4,7 @@ An initiative, using frames from [`terminal-parrot`](https://github.com/jmhobbs/
 
 # Try it!
 ```bash
-curl parrot.live
+curl test.live
 ```
 
 # :partyparrot:
